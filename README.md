@@ -14,8 +14,6 @@ import "C"
 func main() {
     // Trying using function log from math.h library
     result := C.log(1)
-
-
-	println(result)
+    println(result)
 }
 ```
