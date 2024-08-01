@@ -2,6 +2,7 @@
 
 Embedding c languange in golang
 
+Reference: [cgo](https://pkg.go.dev/cmd/cgo)
 ## Example
 We will try to use the c library `<math.h>`, below is a little sample code
 
